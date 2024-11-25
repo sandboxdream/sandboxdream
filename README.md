@@ -1,16 +1,13 @@
-## Hi there 👋
+[![sandboxdream's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandboxdream&theme=vue&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**sandboxdream/sandboxdream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+- 📫 How to reach me: 
+  1. email: i@shmx.top
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/sandboxdream/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
